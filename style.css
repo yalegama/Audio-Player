@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: blue;
+  width: 50%;
+  height: 50vh;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+  margin-top: 20vh;
+}
+img {
+  margin-top: 10vh;
+}
